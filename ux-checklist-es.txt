@@ -1,0 +1,119 @@
+Investigar
+----------
+
+- Análisis de la competencia
+Mira cómo otros resuelven problemas similares e intenta no “reinventar la rueda”. 
+
+- Análisis de datos
+¿Tienes todos los datos de utilidad que necesitas? Intenta echar un vistazo a los embudos, clicks, páginas vistas, rendimiento, etc.
+
+- Feedback de los usuarios
+¡Habla siempre con el Servicio de Atención al Cliente! ¿No hay? Entonces comprueba tus estudios y vídeos pasados. ¿Qué dicen tus clientes? ¿Qué hacen realmente?
+
+
+Planificar
+----------
+
+- Historias de usuario
+¿Ya has creado personas? Si es que no, HAZLO AHORA. Vale, ahora úsalas para escribir las historias de usuario y los escenarios.
+
+- Flujos de usuario
+Crea los flujos de usuario basados en los escenarios que has creado. Después puedes usarlos para revisar el user journey y crear los principales wireframes de cada paso.
+
+- “Rutas rojas”
+Define posibles errores que puedan darse durante el journey y serás capaz de identificar, priorizar y eliminar obstáculos de usabilidad claves.
+	
+
+Explorar
+--------
+
+- Lluvia de ideas y creación de bocetos (sketch)
+Encuentra una sala de trabajo, llénala de rotuladores y bebidas, reuníos y comenzad a dibujar, debatir, votar, interrumpir... y ¡pasadlo bien!
+
+- Wireframes
+Añadid algunos detalles y una estructura a vuestras ideas, reutilizad patrones y cread las principales páginas de vuestros flujos de usuario.
+
+- Prototipos
+Podéis empezar creando los prototipos sobre papel y repetirlos continuamente para conseguir otros más funcionales. Utilizad sketches, páginas de HTML o imágenes estáticas. Y, a continuación, consigue gente para testear los prototipos.
+
+
+Comunicar
+---------
+
+- Arquitectura de la información 
+Entiende a tus usuarios, tu estructura de datos y tus canales. ¿Cómo puedes organizar tu navegación y tu contenido de una forma clara y consistente?
+
+- Lenguaje
+Sigue tu marca personal, ten en mente la cultura y el lenguaje de tus usuarios y el contexto de tu producto y comprueba que te entienden.
+
+- Accesibilidad
+No necesitas añadir funcionalidades extras o duplicar contenido. La clave está simplemente en evaluar los requisitos de éstos con diferentes habilidades y unos dispositivos limitados.
+
+
+Crear
+-----
+
+- Elementos de la Interfaz de Usuario
+Reutiliza elementos y patrones y sigue tu manual de estilo. ¿No tienes? Entonces crea tu guía de estilo. A continuación, empieza poco a poco a crear las páginas.
+
+- Gestos
+¿Así que ha de tener un control deslizante (“swipe slider”)? Cuentame más sobre pellizcar, arrastrar, hacer zoom, girar, agitar, smartphones de seis pulgadas, personas zurdas, “mouseover”, “kinect”, detección de movimiento,...
+
+- “Diseño responsive”
+¿Puedo verlo en mi móvil? Oh espera, ¿y qué pasa con mi smart-watch que funciona como un control remoto para mi televisión de 50"? Recuerda la experiencia que obtiene el usuario al cruzar diferentes dispositivos.
+
+
+
+Dar feedback
+------------
+
+- Tiempos de espera
+Si tus usuarios tienen que esperar años a que se cargue la página, al menos muéstrales un cargador. Y si tarda aún más, ¿por qué no intentas hacer algo más entretenido?
+
+- Errores
+Sé claro y específico en cuanto a qué errores cometen los usuarios y dónde. Quiero decir tus errores, porque si es tu culpa deberías decirlo.
+
+- Acciones completadas
+Da una respuesta clara e inmediata de las acciones que han hecho los usuarios con éxito. No esperes siempre la respuesta del servidor, ¡confía en tu servidor de vez en cuando!
+
+
+Finalizar
+---------
+
+- Terminar el layout
+Es hora de dejar a tu diseño que brille. Hazlo de la forma correcta, no te detengas en la primera solución, siempre hay que preguntarse “¿Esto es lo mejor que se puede hacer?”.
+
+- Uso de imágenes e iconos
+El uso de iconos e imágenes está fuertemente influenciado por el contexto, la cultura y el layout que utilizas. Como los iconos, testea tus imágenes, ya que los pequeños cambios pueden traer grandes mejoras.
+
+- Jerarquía en la tipografía y los colores
+Usa correctamente los colores y tamaños de tipografía, intenta seguir tu guía de estilo y mantenla simple. Las mejores jerarquías visuales conducen a los usuarios a hacer las cosas con confianza.
+
+
+Pensar en los detalles
+----------------------
+
+- Micro copy (pequeños textos del site)
+Todas las palabras son importantes, y un poco de personalidad ayudará a tu marca. 
+
+- Micro interacciones
+Desencadenantes (trigger), reglas, feedback, bucles (loop). Los detalles hacen el producto. Nota: ¿Alguna vez has oído hablar de los huevos de Pascua?
+
+- Transiciones
+El movimiento no sólo debe ser bonito, sino que tiene que dar significado a las relaciones espaciales, la funcionalidad y la intención del sistema.
+
+
+Analizar
+--------
+
+- Configuración de las KPI
+ ¿Qué es lo que quieres conseguir? ¿Cuáles son tus objetivos? Anota cómo defines el éxito y el fracaso y comprueba si tienes todo lo necesario para recopilar los datos.
+
+- Planificación del Test A/B
+Planifica tu test A/B y, si puedes, planifica una pequeña hoja de ruta con las mejoras. Con esto no sólo mejoran tus KPIs, sino que aprendes cosas.
+
+- Test
+Pruebas de UX, estudios, grabación de sesiones,... testea, observa y arregla, testea, observa y arregla,...
+
+Y ya está, estos son todos los pasos a tener en cuenta en la realización 
+de un proyecto de UX. ¡No os olvidéis de ninguno! ;)
